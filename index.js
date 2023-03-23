@@ -1,4 +1,4 @@
-function gradeGen() {
+function genGrade() {
     
 
     let marks = document.getElementById('marks').value;
